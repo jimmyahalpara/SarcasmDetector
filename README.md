@@ -1,4 +1,4 @@
-#Sarcasm  Detector
+# Sarcasm  Detector
 
 Goto Application: [Here](trial)
 ## Model 
